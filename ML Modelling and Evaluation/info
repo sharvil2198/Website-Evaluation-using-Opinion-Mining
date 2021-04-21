@@ -1,0 +1,6 @@
+# Data Modelling
+
+* Data is scraped and stored in tables
+* Data is fed to ML pipeline
+* Ai performs operations and determines score
+* Score is presented as the output to user 

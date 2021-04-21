@@ -1,0 +1,7 @@
+#Data Acquisition
+
+The data is scrapped from a reviews website with the help of BeautifulSoup.
+
+BeautifulSoup:
+Beautiful Soup is a Python library for pulling data out of HTML, XML files and other markup languages.
+It works with your parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.

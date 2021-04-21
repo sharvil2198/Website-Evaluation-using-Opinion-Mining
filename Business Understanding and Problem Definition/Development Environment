@@ -1,0 +1,8 @@
+# Development Environment
+
+1. Python
+2. Flask - for front end
+3. NLTK - to analyse textual data
+4. SQLite3 - to perform SQL and database operations
+5. Customer reviews scrapped from website
+6. Host website on AWS/ Pythonanywhere/ Azure based on hosting requirements

@@ -1,0 +1,7 @@
+# Problem Definition
+
+1. Build a webapp to know the sentiments and opinions of a user for a website.
+2. Convenient for service providers to analyse customers' reviews, opinions and converations on their services or products.
+3. Scrape the opinions from a reviews website.
+4. Perform opinion mining or sentiment analysis on the reviews of website.
+5. Display the results on hosted website.
